@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nellCod3r
-- 👀 I’m interested in web dev
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript Full Stack Carrer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
